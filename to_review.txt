@@ -1,0 +1,3 @@
+capital of greece=athens
+capital of england=bristol
+captital of usa=mexico
